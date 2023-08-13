@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = ''
-export const API_KEY = 'app-BfGhQDokZ6Z6OYUDxT77Ig2f'
-export const API_URL = 'https://api.dify.ai/v1'
+export const APP_ID = 'app-BfGhQDokZ6Z6OYUDxT77Ig2f'
+export const API_KEY = 'https://api.dify.ai/v1'
+export const API_URL = ''
 export const APP_INFO: AppInfo = {
   title: 'IPrjgpt',
   description: '',
